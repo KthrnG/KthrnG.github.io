@@ -1,0 +1,153 @@
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+header {
+    background-color: #fff;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*Navigation*/
+
+.container-navigation {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 350;
+    font-style: normal;
+    line-height: 1.5;
+    box-sizing: border-box;
+    background-color: #fff;
+    position: absolute;
+    padding-right: 70px;
+    padding-left: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-navigation .logo img {
+    width: 180px;
+    height: 120px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.container-navigation .navigation {
+    flex-direction: column;
+    display: flex;
+    width: 500px;
+    margin-top: 3rem;
+}
+
+.container-navigation .navigation ul {
+    list-style: none;
+    display: flex;
+}
+
+.container-navigation .navigation ul li {
+    padding: 10px;
+}
+
+.container-navigation .navigation li a {
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 350;
+    font-style: normal;
+    padding: 15px;
+    color: rgb(0 0 0);
+}
+
+.container-navigation .navigation li a:hover {
+    background-color: blue;
+    color: #fff;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    padding-left: 200px;
+    padding-top: 12rem;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 200px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin: 0px;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 15px;
+}
+
+.Dokumentation {
+    background-color: #fff;
+    padding-bottom: 50px;
+}
+
+.Regelwerk {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 15px;
+}
+
+.Reflexion p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 15px;
+}
+
+.Ueber {
+    background-color: #fff;
+    padding-bottom: 50px;
+}
+
+.Ueber p a {
+    text-decoration: underline;
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: normal;
+    color: rgb(0 0 0);
+}
+
+.video {
+    padding-left: 25%;
+}
+
+.videoBeschreibung {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 10px;
+    padding-left: 4%;
+}
+
+.Impressum {
+    background-color: #fff;
+    padding-bottom: 50px;
+}
