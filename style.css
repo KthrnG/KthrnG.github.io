@@ -12,9 +12,179 @@ body {
     padding: 0;
 }
 
-/*Navigation*/
+.start {
+    float: left;
+    width: 100%;
+    margin: 50px 0;
+}
 
-.container-navigation {
+.wrapper{
+    width: calc(100% - 100px);
+    margin: 0 auto;
+}
+
+h1, h2, h3, p, a, li {
+    font-family: Helvetica Neue, Arial, sans-serif;
+    color: #120453;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+/*Navigation Portfolio*/
+
+.navigation {
+    float: left;
+    position: fixed;
+    height: calc(100vh - 100px);
+    position: fixed;
+}
+
+.navigation a:hover {
+    color: #ffe16b;
+}
+
+.menu {
+    float: left;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 1.5em;
+}
+
+.nav {
+    list-style: none;
+    margin-top: 8rem;
+    padding: 0;
+}
+
+.nav ul {
+    padding: 0 0px;
+    list-style: none;
+}
+
+.nav ul li {
+    padding-bottom: 1rem;
+}
+
+.nav li a {
+    text-decoration: none;
+    display: block;
+    color: #ffbd24;
+}
+
+.navigation .nav li a:hover {
+    color: #ffe16b;
+}
+
+.content-icons {
+    float: left;
+    position: fixed;
+    bottom: 1rem;
+    height: 6rem;
+}
+
+.social-media a img {
+    width: 2%;
+    height: auto;
+    border: 0;
+    padding: 0px;
+}
+
+.title h1, h2, h3, a {
+    text-align: left;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 1.5em;
+    font-size: 1rem;
+    color: #120453;
+}
+
+.title a {
+    text-decoration: none;
+}
+
+.title h2 {
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    letter-spacing: 1.8px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.title h3 {
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 1.0px;
+}
+
+/*main*/
+
+.main {
+    position: relative;
+    float: left;
+    width: 80%;
+    z-index: 20;
+    top: 80px;
+    left: 20%;
+}
+
+.start .project {
+    float: left;
+    clear: both;
+    margin-bottom: 50px;
+    position: relative;
+    left: 40%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+}
+
+.main img {
+    float: left;
+    /* max-width: 500px;
+    max-height: 55vh; */
+}
+
+.project, h3, p, a {
+    clear: both;
+    margin: 0;
+    font-size: 14px;
+    max-width: 100%;
+    text-align: left;
+    flex-direction: column;
+    font-style: normal;
+}
+
+.project, h3 {
+    margin-top: 18px;
+    font-style: italic;
+}
+
+/*Thumbnails*/
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    /* width: 50%; */
+    max-width: 600px;
+    /* padding: 20px; */
+}
+
+/*Dots*/
+
+
+/*Navigation Dots*/
+
+.container-navigation-dots {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 350;
     font-style: normal;
@@ -28,30 +198,26 @@ body {
     justify-content: space-between;
 }
 
-.container-navigation .logo img {
+.container-navigation-dots .logo img {
     width: 180px;
     height: 120px;
     display: flex;
     align-items: flex-end;
 }
 
-.container-navigation .navigation {
+.container-navigation-dots .navigationDots {
     flex-direction: column;
     display: flex;
     width: 500px;
     margin-top: 3rem;
 }
 
-.container-navigation .navigation ul {
+.container-navigation-dots .navigationDots ul {
     list-style: none;
     display: flex;
 }
 
-.container-navigation .navigation ul li {
-    padding: 10px;
-}
-
-.container-navigation .navigation li a {
+.container-navigation-dots .navigationDots li a {
     text-decoration: none;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 350;
@@ -60,12 +226,12 @@ body {
     color: rgb(0 0 0);
 }
 
-.container-navigation .navigation li a:hover {
+.container-navigation-dots .navigationDots li a:hover {
     background-color: blue;
     color: #fff;
 }
 
-h1 {
+.mainDots h1 {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 40px;
     font-weight: 300;
@@ -75,7 +241,7 @@ h1 {
     margin: 0px;
 }
 
-h2 {
+.mainDots h2 {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
     font-weight: 400;
@@ -85,7 +251,7 @@ h2 {
     margin: 0px;
 }
 
-p {
+.mainDots p {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -130,6 +296,7 @@ p {
 
 .Ueber p a {
     text-decoration: underline;
+    font-size: 20px;
     font-family: Helvetica, Arial, sans-serif;
     font-style: normal;
     color: rgb(0 0 0);
@@ -147,7 +314,63 @@ p {
     padding-left: 4%;
 }
 
+/*Impressum*/
+
+.Impressum-Link {
+    float: left;
+    position: absolute;
+    bottom: 0;
+}
+
+.Impressum-Link a {
+    text-decoration: none;
+    color: #ffbd24;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 1.5em;
+}
+
+.Impressum-Link a:hover {
+    color: #ffe16b;
+}
+
 .Impressum {
-    background-color: #fff;
-    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.Impressum h1 {
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    letter-spacing: 1.8px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.Impressum h2 {
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    letter-spacing: 1.8px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.Impressum h3 {
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    letter-spacing: 1.8px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
 }
