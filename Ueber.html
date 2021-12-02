@@ -5,7 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Dots</title>
+    <title>Katharina-Laurine Gedrat Portfolio</title>
+    <meta name="keywords" content="katharina-laurine, gedrat, portfolio">
+    <meta name="description" content="Katharina-Laurine Gedrat ist eine Mediengestalterin mit Wohnsitz in Bremen.">
 </head>
 
 <header class="container-navigation-dots">
@@ -24,100 +26,111 @@
 </header>
 
 <div class="mainDots">
-<section class="Ueber">
-    <h1>Das Projekt: Conditional Design Digital</h1>
-    <div class="video">
-        <iframe src="https://player.vimeo.com/video/533433139" width="640" height="564" frameborder="0"
-            allow="autoplay; fullscreen" allowfullscreen></iframe>
-    </div>
-    <div class="videoBeschreibung">
-        <p>Selbst durchgeführte Conditional Design Übung im Rahmen meiner Projektrecherche.</p>
-    </div>
-    <h2>Einführung: Conditional Design</h2>
-    <p>
-        Im Frühjahr 2008 erarbeiteten die Designer*innen <a
-            href="https://poly-luna.com/static/localhost_8888/luna/index.html">Luna Maurer,</a> <a
-            href="http://www.eude.nl/">Edo Paulus,</a> <a href="https://puckey.studio/">Jonathan Puckey</a> und <a
-            href="https://www.xelor.nl/"> Roel Wouters</a> das Conditional Desgin und veröffentlichten das <a
-            href="https://conditionaldesign.org/manifesto/">Conditional Design Manifest</a>.<br> Das Conditional Design
-        Manifest befasst sich mit dem Einfluss den heutige Medien und Technologien auf unser Leben und unser Handeln als
-        Menschen haben. Eine Annahme ist die, dass wir in einer "data-driven society" (datengetriebenen Gesellschaft)
-        leben, in der unsere Form der Kommunikation sowie gesellschaftliche Zusammenhänge kontinuierlich im Wandel sind.
-        Das Conditional Design stellt Handlungsanweisungen und Methoden vor die diese Veränderungen und Zusammenhänge in
-        die Arbeit als Designer*innen integriert. Das Conditional Design ist prozessorientiert. Darum lautet eine der
-        wichtigstens Regeln: Der Prozess ist das Produkt. <br>Die Mitbegründer*innen des Conditional Designs
-        organisieren wöchentliche Conditional Design Workshops deren Ergebnisse sie dokumentieren und auf ihrer Website
-        veröffentlichen. Zu sehen unter: <a href="https://conditionaldesign.org/">conditionaldesign.org</a>
-        <h2>The Beach: Das Regelwerk</h2>
-        <p>In dem Conditional Design "Beach" gibt es nur eine Regel: "Each turn, find the most empty space on the paper
-            and place a dot in the middle of it". "In jeder neuen Runde, suche eine leere Fläche und platziere dort
-            einen Punkt".<br>Dieses Regelwerk ist viel zu ungenau, als das ein Computerprogramm damit ein ähnlich
-            aussehendes Ergebnis liefern kann. Meine Aufgabe besteht als erstes darin ein Regelwerk zu schreiben, dass
-            ich später in P5.js implementieren kann. Ich musste feststellen, dass eine Besonderheit darin besteht dem
-            Programm zu sagen, dass es prüfen muss wo auf der Leinwand bereits ein Punkt gezeichnet wurde und wenn
-            nicht, ob der Ort den gewünschten Kriterien (Abstand zu den umliegenden Punkten) entspricht. Nach einigen
-            Versuchen kam folgendes Regelwerk dabei heraus:</p>
-        <h2>Dots</h2>
-        <div class="Regelwerk">
-            <li>
-                <tr>
-                    <td> Erstelle vier Spieler*innen (als Punkte dargestellt).</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Jede*r Spieler*in wird eine Farbe zugeordnet (rot, gelb, blau, schwarz).</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Programm Start: Zeichne einen Punkt irgendwo auf der Leinwand.</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Die Punkte werden immer in dieser Reihenfolge gezeichnet: rot, gelb, blau, schwarz.</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Jeder Punkt hat einen fixen Radius.</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Alle Punkte haben einen min. und einen max. Abstand zum nächstgelegenen Punkt.</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Neuen Punkt platzieren: Prüfe ob an der Stelle auf der Leinwand schon ein Punkt gezeichnet
-                        wurde. Wenn ja: weiter auf der Leinwand nach geeignetem Ort suchen. Wenn nein: zeichne einen
-                        Punkt.</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Erlaubnis holen: Zeichne nur dort einen neuen Punkt auf der Leinwand, wo die oben genannten
-                        Kriterien erfüllt sind.</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Zeichne solange Punkte bis die o.g. Kriterien nicht mehr erfüllt werden können.</td>
-                </tr>
-            </li>
-            <li>
-                <tr>
-                    <td>Wenn dies der Fall ist, starte das Programm von vorne.</td>
-                </tr>
-            </li>
+    <section class="Ueber">
+        <h1>Das Projekt: Conditional Design Digital</h1>
+        <div class="video">
+            <iframe src="https://player.vimeo.com/video/533433139" width="640" height="564" frameborder="0"
+                allow="autoplay; fullscreen" allowfullscreen></iframe>
         </div>
-        <h2>Quellen</h2>
-        <p>Mein Projekt ist angelehnt an das Conditional Design <a
-                href="https://conditionaldesign.org/workshops/the-beach/">"The Beach"</a>. Siehe <a
-                href="Dokumentation.html">Dokumentation</a>.</p>
-</section>
+        <div class="videoBeschreibung">
+            <p>Selbst durchgeführte Conditional Design Übung im Rahmen meiner Projektrecherche.</p>
+        </div>
+        <h2>Einführung: Conditional Design</h2>
+        <p>
+            Im Frühjahr 2008 erarbeiteten die Designer*innen <a
+                href="https://poly-luna.com/static/localhost_8888/luna/index.html">Luna Maurer,</a> <a
+                href="http://www.eude.nl/">Edo Paulus,</a> <a href="https://puckey.studio/">Jonathan Puckey</a> und <a
+                href="https://www.xelor.nl/"> Roel Wouters</a> das Conditional Desgin und veröffentlichten das <a
+                href="https://conditionaldesign.org/manifesto/">Conditional Design Manifest</a>.<br> Das Conditional
+            Design
+            Manifest befasst sich mit dem Einfluss den heutige Medien und Technologien auf unser Leben und unser Handeln
+            als
+            Menschen haben. Eine Annahme ist die, dass wir in einer "data-driven society" (datengetriebenen
+            Gesellschaft)
+            leben, in der unsere Form der Kommunikation sowie gesellschaftliche Zusammenhänge kontinuierlich im Wandel
+            sind.
+            Das Conditional Design stellt Handlungsanweisungen und Methoden vor die diese Veränderungen und
+            Zusammenhänge in
+            die Arbeit als Designer*innen integriert. Das Conditional Design ist prozessorientiert. Darum lautet eine
+            der
+            wichtigstens Regeln: Der Prozess ist das Produkt. <br>Die Mitbegründer*innen des Conditional Designs
+            organisieren wöchentliche Conditional Design Workshops deren Ergebnisse sie dokumentieren und auf ihrer
+            Website
+            veröffentlichen. Zu sehen unter: <a href="https://conditionaldesign.org/">conditionaldesign.org</a>
+            <h2>The Beach: Das Regelwerk</h2>
+            <p>In dem Conditional Design "Beach" gibt es nur eine Regel: "Each turn, find the most empty space on the
+                paper
+                and place a dot in the middle of it". "In jeder neuen Runde, suche eine leere Fläche und platziere dort
+                einen Punkt".<br>Dieses Regelwerk ist viel zu ungenau, als das ein Computerprogramm damit ein ähnlich
+                aussehendes Ergebnis liefern kann. Meine Aufgabe besteht als erstes darin ein Regelwerk zu schreiben,
+                dass
+                ich später in P5.js implementieren kann. Ich musste feststellen, dass eine Besonderheit darin besteht
+                dem
+                Programm zu sagen, dass es prüfen muss wo auf der Leinwand bereits ein Punkt gezeichnet wurde und wenn
+                nicht, ob der Ort den gewünschten Kriterien (Abstand zu den umliegenden Punkten) entspricht. Nach
+                einigen
+                Versuchen kam folgendes Regelwerk dabei heraus:</p>
+            <h2>Dots</h2>
+            <div class="Regelwerk">
+                <li>
+                    <tr>
+                        <td> Erstelle vier Spieler*innen (als Punkte dargestellt).</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Jede*r Spieler*in wird eine Farbe zugeordnet (rot, gelb, blau, schwarz).</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Programm Start: Zeichne einen Punkt irgendwo auf der Leinwand.</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Die Punkte werden immer in dieser Reihenfolge gezeichnet: rot, gelb, blau, schwarz.</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Jeder Punkt hat einen fixen Radius.</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Alle Punkte haben einen min. und einen max. Abstand zum nächstgelegenen Punkt.</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Neuen Punkt platzieren: Prüfe ob an der Stelle auf der Leinwand schon ein Punkt gezeichnet
+                            wurde. Wenn ja: weiter auf der Leinwand nach geeignetem Ort suchen. Wenn nein: zeichne einen
+                            Punkt.</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Erlaubnis holen: Zeichne nur dort einen neuen Punkt auf der Leinwand, wo die oben genannten
+                            Kriterien erfüllt sind.</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Zeichne solange Punkte bis die o.g. Kriterien nicht mehr erfüllt werden können.</td>
+                    </tr>
+                </li>
+                <li>
+                    <tr>
+                        <td>Wenn dies der Fall ist, starte das Programm von vorne.</td>
+                    </tr>
+                </li>
+            </div>
+            <h2>Quellen</h2>
+            <p>Mein Projekt ist angelehnt an das Conditional Design <a
+                    href="https://conditionaldesign.org/workshops/the-beach/">"The Beach"</a>. Siehe <a
+                    href="Dokumentation.html">Dokumentation</a>.</p>
+    </section>
 </div>
 </div>
 

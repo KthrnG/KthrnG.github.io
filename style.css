@@ -44,20 +44,25 @@ li {
     .content-icons {
         width: 20px;
     }
+
     .social-media {
         width: 50%;
         height: auto;
     }
+
     .social-media a img {
         width: 20px;
         height: 20px;
     }
+
     .main img {
         max-width: 100% !important;
     }
+
     .iframe-container {
         width: 100% !important;
     }
+
     .responsive-iframe {
         position: fixed;
     }
@@ -245,8 +250,7 @@ h3 {
     max-height: 55vh;
 }
 
-.project
-p{
+.project p {
     clear: both;
     margin: 0;
     font-size: 14px;
@@ -256,8 +260,7 @@ p{
     font-style: normal;
 }
 
-.project
-a{
+.project a {
     clear: both;
     margin: 0;
     font-size: 14px;
@@ -267,8 +270,7 @@ a{
     font-style: normal;
 }
 
-.project
-h3 {
+.project h3 {
     margin: 18px 0 5px 0px;
     font-size: 1rem;
     font-style: italic;
@@ -439,7 +441,8 @@ h3 {
     -webkit-transform: translateX(-50%);
 }
 
-.footer p, a {
+.footer p,
+a {
     float: left;
     padding: 5px 15px;
     clear: none;
