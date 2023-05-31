@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Zoom"
+---
+
+![Titel](/images/zoom/kg-zoom-01.jpg)
+
+*"Zoom – Eine Untersuchung" macht das Zoomen zum Gegenstand unterschiedlicher experimenteller Webanwendungen, in denen auf verschiedene Weise (u.a. klicken, ziehen, scrollen) der Zoom eingesetzt wird, um die dafür notwendigen Programmiersprachen (HTML5, CSS, Javascript) zu erlernen.*
+
+Die Arbeit Zoom – Eine Untersuchung führt zwei Ideen zusammen. Zum einen wollte ich ein Projekt mit den vom Art Institute of Chicago unter der Public-Domain veröffentlichten Gemälden realisieren. Zum anderen wollte ich die Web-Programmiersprachen HTML5, CSS und JavaScript erlernen.<br><br>
+
+Um den Fokus zu behalten habe ich mich auf die Anwendung des Zooms im Web beschränkt.<br><br>
+
+Folgende Fragen sind für meine Arbeit relevant: 
+* Wie wird der Zoom im Web eingesetzt?
+* Welche Möglichkeiten des Zoomens als Desktopanwendungen im Web gibt es bereits?
+* Wie wird ein Zoom-Effekt implementiert?<br><br>
+
+Ich habe acht verschiedene Herangehensweisen für das Zoomen als Desktopanwendung im Web definiert die ich daraufhin selber implementiert habe.
+
+1. Punktueller Zoom von Minimum nach Maximum: In die obere linke Ecke des Bildes rein- und raus zoomen. 
+2. Image Zoom: An dem unteren rechten Bildrand ziehen um das Bild zu vergrößern. 
+3. Parallax: Durch scrollen wird ein Teil des Bildes vergrößert. 
+4. Multipler Hovereffekt: Das Bild wird für kurze Zeit größer wenn die Maus darüber fährt. 
+5. Mouse Event: Durch klicken auf das Vergrößerungs- bzw. Verkleinerungssymbol wird das Bild klein oder groß angezeigt. 
+6. Simpler Hovereffekt: Das Bild wird größer wenn die Maus darüber fährt. 
+7. Lupe: Der Mauszeiger wird durch eine Lupe ersetzt die den Bildabschnitt maximal vergrößert in dem sich der Mauszeiger befindet. 
+8. Punktueller Zoom von Maximum nach Minimum: Raus- und rein zoomen in die obere linke Ecke des Bildes.
+
+<!-- # 	Student....................Katharina-Laurine Gedrat -->
+	Student....................Katharina-Laurine Gedrat
+	Docents....................Prof. Peter von Maydell
+	Semester...................WiSe 2018/2019

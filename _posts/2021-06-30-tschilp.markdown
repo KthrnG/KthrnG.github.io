@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Tschilp – Ein Gerät für die akustische Langzeitbeobachtung von Vögeln"
+---
+
+![kg-tschilp-01.jpg](/images/tschilp/kg-tschilp-01.jpg)
+
+Der Tschilp ist ein Gerät das der akustischen Langzeitbeobachtung von Vögeln dient. Das Projekt richtet sich an Menschen die sich für die Beobachtung von Vögeln interessieren, sowie an Hobby-Vogelbeobachter_innen – sogenannte „birdwatcher“.<br>
+Der Tschilp kann mittels eines Algorithmus zur Vogelstimmenerkennung [(BirdNET)](https://birdnet.cornell.edu/), Vögel identifizieren. Sobald ein neuer Vogel identifiziert wurde erhält der_die Nutzer_in eine E-Mail. Die E-Mail enthält den deutschen Namen, die lateinische Fachbezeichnung, ein Foto, einen Link zur Wikipedia und die Audioaufnahme des erkannten Vogels. Das Projekt ist auf der Website [Tschilp.net](https://tschilp.net/) dokumentiert. Der Code wird auf [Github](https://github.com/KthrnG/Tschilp) der Öffentlichkeit als Open Source Software zur Verfügung gestellt.
+
+![kg-tschilp-02.jpg](/images/tschilp/kg-tschilp-02.jpg)
+
+![kg-tschilp-03.jpg](/images/tschilp/kg-tschilp-03.jpg)
+
+![kg-tschilp-04.jpg](/images/tschilp/kg-tschilp-04.jpg)
+
+![kg-tschilp-05.jpeg](/images/tschilp/kg-tschilp-05.jpeg)
+
+Das Ziel dieser Arbeit war es ein Gerät zur akustischen Langzeitüberwachung von Vögeln zu entwickeln. Dies ist mit dem Tschilp gelungen. Ergebnis dieser Arbeit ist ein voll funktionsfähiges Gerät, dass Vögel anhand ihrer Stimmen identifizieren kann und den_die Nutzer_in benachrichtigt, wenn ein neuer Vogel erkannt wurde. Zielsetzung der Bachelorarbeit ist die Entwicklung eines Prototypen als Proof of Concept. Um die Vision des Projektes zu veranschaulichen gehört zu dieser Arbeit die Website und das Erklärvideo. Das Video visualisiert eine weiterentwickelte Version des Tschilp und bietet einen Ausblick auf verschiedene weitergedachte Interaktionsformen.<br>
+Auf [Github](https://github.com/KthrnG/Tschilp) ist die Code für den Tschilp dokumentiert und steht der Öffentlichkeit zur Verfügung. Auf der [Tschilp.net](https://tschilp.net/) Website findet sich eine Projektbeschreibung und weitere Informationen rund um den Tschilp.<br>
+
+![kg-tschilp-06.jpg](/images/tschilp/kg-tschilp-06.jpg)
+
+![kg-tschilp-07.jpg](/images/tschilp/kg-tschilp-07.jpg)
+
+Das Projekt löst bei mir große Begeisterung aus. Es hat mich überrascht zu erfahren wie viele verschiedene Vogelarten zu den unterschiedlichsten Tages- und Jahreszeiten in meinem Garten aktiv sind. Der Tschilp hat definitiv meine Wahrnehmung und mein Gehör für die unterschiedlichen Vogelgesänge sensibilisiert. Bild- und Tonmaterial haben mir dabei geholfen, dass ich mittlerweile diverse Vogelarten visuell und akustisch voneinander unterscheiden kann. Darüber hinaus habe ich im Laufe dieser Arbeit sehr viel über Vögel, ihre Habitate und ihre Bedeutung für das Ökosystem gelernt.<br>
+Dies ist das erste Projekt in dem ich mit einem Raspberry Pi arbeite. Für die Realisierung dieses Projektes musste ich mir deshalb die Shell Sprache Bash aneignen. Ebenso ist das Erklärvideo, das erste von mir konzipierte und gestaltete Animationsvideo. Für die Umsetzung des Videos musste ich den Umgang mit den Adobe Grafikprogrammen Illustrator, After Effects und Premiere vertiefen.<br>
+Das Projekt um den Tschilp umfasst viele verschiedene Dimensionen. Es vereint technische, gestalterische, wissenschaftliche, philosophische und politische Aspekte. Das Projekt begann mit der Idee, ein Gerät zur akustischen Vogelerkennung für den eigenen Garten zu entwickeln. Die Herausforderung lag anfangs darin diese Idee gestalterisch und technisch in die Tat umzusetzen. Im Laufe der Zeit eröffnete der Tschilp den Zugang zu weiteren Themen. Dazu gehören u.a. Ornithologie, Vogelbeobachtung (birding), Acoustic Recognition Systems, Deep Learning, Citizen Science, Mensch-Natur-Interaktion, Natur-und Umweltschutz, sowie Klimapolitik. Der Tschilp bietet eine Schnittstelle zu all diesen Themen.<br>
+Der Tschilp ruft bei Menschen mit denen ich über das Projekt sprach großes Interesse hervor. Viele baten um ein eigenes Gerät.<br>
+Nach der ersten Testphase kann ich behaupten, dass sich der Tschilp hervorragend für den Außeneinsatz eignet. Er hat Herbststürmen und niedrigsten Temperaturen im Winter standgehalten. Wenn ich unterwegs bin und eine Nachricht von meinem Tschilp erhalte, halte ich kurz inne und bin gespannt welcher neue Vogel erkannt wurde.
+
+<iframe src="https://player.vimeo.com/video/533428732" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+Mehr Informationen zum Projekt unter:
+
+Projekt Website: [https://tschilp.net/](https://tschilp.net/)<br>
+GitHub Repository: [https://github.com/KthrnG/Tschilp](https://github.com/KthrnG/Tschilp)<br>
+Vimeo: [Tschilp.mp4](https://vimeo.com/533428732)
+
+Displayed on Digital Media Bremen: [https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/](https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/)
+
+
+    Category...................Bachelor Thesis
+	Student....................Katharina-Laurine Gedrat
+	Lecturer...................Prof. Peter von Maydell, Prof. Ralf Baecker
+	Semester...................WiSe 2020/21

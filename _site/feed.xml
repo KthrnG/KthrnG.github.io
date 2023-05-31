@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-31T14:58:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Katharina-Laurine Gedrat</title><subtitle>Hi, I am Katharina. I&apos;m an interaction designer and new media artist.  In my portfolio you can find a selection of my work.</subtitle><entry><title type="html">Tschilp – Ein Gerät für die akustische Langzeitbeobachtung von Vögeln</title><link href="http://localhost:4000/2021/06/30/tschilp.html" rel="alternate" type="text/html" title="Tschilp – Ein Gerät für die akustische Langzeitbeobachtung von Vögeln" /><published>2021-06-30T00:00:00+02:00</published><updated>2021-06-30T00:00:00+02:00</updated><id>http://localhost:4000/2021/06/30/tschilp</id><content type="html" xml:base="http://localhost:4000/2021/06/30/tschilp.html"><![CDATA[<p><img src="/images/tschilp/kg-tschilp-01.jpg" alt="kg-tschilp-01.jpg" /></p>
+
+<p>Der Tschilp ist ein Gerät das der akustischen Langzeitbeobachtung von Vögeln dient. Das Projekt richtet sich an Menschen die sich für die Beobachtung von Vögeln interessieren, sowie an Hobby-Vogelbeobachter_innen – sogenannte „birdwatcher“.<br />
+Der Tschilp kann mittels eines Algorithmus zur Vogelstimmenerkennung <a href="https://birdnet.cornell.edu/">(BirdNET)</a>, Vögel identifizieren. Sobald ein neuer Vogel identifiziert wurde erhält der_die Nutzer_in eine E-Mail. Die E-Mail enthält den deutschen Namen, die lateinische Fachbezeichnung, ein Foto, einen Link zur Wikipedia und die Audioaufnahme des erkannten Vogels. Das Projekt ist auf der Website <a href="https://tschilp.net/">Tschilp.net</a> dokumentiert. Der Code wird auf <a href="https://github.com/KthrnG/Tschilp">Github</a> der Öffentlichkeit als Open Source Software zur Verfügung gestellt.</p>
+
+<p><img src="/images/tschilp/kg-tschilp-02.jpg" alt="kg-tschilp-02.jpg" /></p>
+
+<p><img src="/images/tschilp/kg-tschilp-03.jpg" alt="kg-tschilp-03.jpg" /></p>
+
+<p><img src="/images/tschilp/kg-tschilp-04.jpg" alt="kg-tschilp-04.jpg" /></p>
+
+<p><img src="/images/tschilp/kg-tschilp-05.jpeg" alt="kg-tschilp-05.jpeg" /></p>
+
+<p>Das Ziel dieser Arbeit war es ein Gerät zur akustischen Langzeitüberwachung von Vögeln zu entwickeln. Dies ist mit dem Tschilp gelungen. Ergebnis dieser Arbeit ist ein voll funktionsfähiges Gerät, dass Vögel anhand ihrer Stimmen identifizieren kann und den_die Nutzer_in benachrichtigt, wenn ein neuer Vogel erkannt wurde. Zielsetzung der Bachelorarbeit ist die Entwicklung eines Prototypen als Proof of Concept. Um die Vision des Projektes zu veranschaulichen gehört zu dieser Arbeit die Website und das Erklärvideo. Das Video visualisiert eine weiterentwickelte Version des Tschilp und bietet einen Ausblick auf verschiedene weitergedachte Interaktionsformen.<br />
+Auf <a href="https://github.com/KthrnG/Tschilp">Github</a> ist die Code für den Tschilp dokumentiert und steht der Öffentlichkeit zur Verfügung. Auf der <a href="https://tschilp.net/">Tschilp.net</a> Website findet sich eine Projektbeschreibung und weitere Informationen rund um den Tschilp.<br /></p>
+
+<p><img src="/images/tschilp/kg-tschilp-06.jpg" alt="kg-tschilp-06.jpg" /></p>
+
+<p><img src="/images/tschilp/kg-tschilp-07.jpg" alt="kg-tschilp-07.jpg" /></p>
+
+<p>Das Projekt löst bei mir große Begeisterung aus. Es hat mich überrascht zu erfahren wie viele verschiedene Vogelarten zu den unterschiedlichsten Tages- und Jahreszeiten in meinem Garten aktiv sind. Der Tschilp hat definitiv meine Wahrnehmung und mein Gehör für die unterschiedlichen Vogelgesänge sensibilisiert. Bild- und Tonmaterial haben mir dabei geholfen, dass ich mittlerweile diverse Vogelarten visuell und akustisch voneinander unterscheiden kann. Darüber hinaus habe ich im Laufe dieser Arbeit sehr viel über Vögel, ihre Habitate und ihre Bedeutung für das Ökosystem gelernt.<br />
+Dies ist das erste Projekt in dem ich mit einem Raspberry Pi arbeite. Für die Realisierung dieses Projektes musste ich mir deshalb die Shell Sprache Bash aneignen. Ebenso ist das Erklärvideo, das erste von mir konzipierte und gestaltete Animationsvideo. Für die Umsetzung des Videos musste ich den Umgang mit den Adobe Grafikprogrammen Illustrator, After Effects und Premiere vertiefen.<br />
+Das Projekt um den Tschilp umfasst viele verschiedene Dimensionen. Es vereint technische, gestalterische, wissenschaftliche, philosophische und politische Aspekte. Das Projekt begann mit der Idee, ein Gerät zur akustischen Vogelerkennung für den eigenen Garten zu entwickeln. Die Herausforderung lag anfangs darin diese Idee gestalterisch und technisch in die Tat umzusetzen. Im Laufe der Zeit eröffnete der Tschilp den Zugang zu weiteren Themen. Dazu gehören u.a. Ornithologie, Vogelbeobachtung (birding), Acoustic Recognition Systems, Deep Learning, Citizen Science, Mensch-Natur-Interaktion, Natur-und Umweltschutz, sowie Klimapolitik. Der Tschilp bietet eine Schnittstelle zu all diesen Themen.<br />
+Der Tschilp ruft bei Menschen mit denen ich über das Projekt sprach großes Interesse hervor. Viele baten um ein eigenes Gerät.<br />
+Nach der ersten Testphase kann ich behaupten, dass sich der Tschilp hervorragend für den Außeneinsatz eignet. Er hat Herbststürmen und niedrigsten Temperaturen im Winter standgehalten. Wenn ich unterwegs bin und eine Nachricht von meinem Tschilp erhalte, halte ich kurz inne und bin gespannt welcher neue Vogel erkannt wurde.</p>
+
+<iframe src="https://player.vimeo.com/video/533428732" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>Mehr Informationen zum Projekt unter:</p>
+
+<p>Projekt Website: <a href="https://tschilp.net/">https://tschilp.net/</a><br />
+GitHub Repository: <a href="https://github.com/KthrnG/Tschilp">https://github.com/KthrnG/Tschilp</a><br />
+Vimeo: <a href="https://vimeo.com/533428732">Tschilp.mp4</a></p>
+
+<p>Displayed on Digital Media Bremen: <a href="https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/">https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Category...................Bachelor Thesis
+Student....................Katharina-Laurine Gedrat
+Lecturer...................Prof. Peter von Maydell, Prof. Ralf Baecker
+Semester...................WiSe 2020/21
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Dots</title><link href="http://localhost:4000/2020/03/21/dots.html" rel="alternate" type="text/html" title="Dots" /><published>2020-03-21T00:00:00+01:00</published><updated>2020-03-21T00:00:00+01:00</updated><id>http://localhost:4000/2020/03/21/dots</id><content type="html" xml:base="http://localhost:4000/2020/03/21/dots.html"><![CDATA[<iframe src="https://player.vimeo.com/video/533433139?h=393d0da56c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+<p><a href="https://vimeo.com/533433139">Conditional Design Übung - the beach.mp4</a> from <a href="https://vimeo.com/user111387814">Katharina Gedrat</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<h2 id="conditional-design-digital">Conditional Design Digital</h2>
+
+<p><em>Meine Arbeit illustriert den analogen Prozess des Conditional
+Designs als Digitale Anwendung in Form einer Desktopanwendung die in P5.js implementiert ist.</em></p>
+
+<p>Mit der Arbeit Conditional Design Digital wollte ich zwei Ziele erreichen. Zum einen wollte ich ein Conditional Design Regelwerk als eine digitale Desktopanwendung implementieren. Zum anderen wollte ich mich mit dem Framework P5.js vertraut machen und meine Kenntnisse in den Web-Programmiersprachen HTML5, CSS3 und JavaScript vertiefen.<br /><br /></p>
+
+<p>Für meine Arbeit habe ich verschiedene Conditional Design Prozesse untersucht. Um das für Menschen gedachte Conditional Design in einem Computerprogramm implementieren zu können, musste zunächst das ursprüngliche Regelwerk überarbeitet und angepasst werden. Das Regelwerk meiner Arbeit ist angelehnt an das Conditional Design <a href="https://conditionaldesign.org/workshops/the-beach/">“The Beach”</a>.<br /><br /></p>
+
+<p>Dots – Das Regelwerk</p>
+<ul>
+  <li>Erstelle vier Spieler*innen (als Punkte dargestellt).</li>
+  <li>Jede_r Spieler_in wird eine Farbe zugeordnet (rot, gelb, blau, schwarz).</li>
+  <li>Programm Start: Zeichne einen Punkt irgendwo auf der Leinwand.</li>
+  <li>Die Punkte werden immer in dieser Reihenfolge gezeichnet: rot, gelb, blau, schwarz.</li>
+  <li>Jeder Punkt hat einen fixen Radius.</li>
+  <li>Alle Punkte haben einen min. und einen max. Abstand zum nächstgelegenen Punkt.</li>
+  <li>Neuen Punkt platzieren: Prüfe ob an der Stelle auf der Leinwand schon ein Punkt gezeichnet wurde. Wenn ja: weiter auf der Leinwand nach geeignetem Ort suchen. Wenn nein: zeichne einen Punkt.</li>
+  <li>Erlaubnis holen: Zeichne nur dort einen neuen Punkt auf der Leinwand, wo die oben genannten Kriterien erfüllt sind.</li>
+  <li>Zeichne solange Punkte bis die o.g. Kriterien nicht mehr erfüllt werden können.</li>
+  <li>Wenn dies der Fall ist, starte das Programm von vorne.<br /><br /></li>
+</ul>
+
+<p>Dokumentation: <a href="https://github.com/KthrnG/KthrnG.github.io">https://github.com/KthrnG/</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Student....................Katharina-Laurine Gedrat
+Lecturer...................Prof. Peter von Maydell
+Semester...................WiSe 2019/2020
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[Conditional Design Übung - the beach.mp4 from Katharina Gedrat on Vimeo.]]></summary></entry><entry><title type="html">Environmental Media</title><link href="http://localhost:4000/2019/09/30/environmental_media.html" rel="alternate" type="text/html" title="Environmental Media" /><published>2019-09-30T00:00:00+02:00</published><updated>2019-09-30T00:00:00+02:00</updated><id>http://localhost:4000/2019/09/30/environmental_media</id><content type="html" xml:base="http://localhost:4000/2019/09/30/environmental_media.html"><![CDATA[<p><img src="/images/environmental_media/kg-Hyperbolic_orthogonal_dodecahedral_honeycomb.jpeg" alt="kg-Hyperbolic_orthogonal_dodecahedral_honeycomb.jpeg" width="500" /><br /></p>
+
+<h3 id="häkeln-gegen-das-korallensterben--ein-medium-verbindet">Häkeln gegen das Korallensterben – Ein Medium verbindet<br /></h3>
+
+<embed src="/images/environmental_media/kg-Environmental_Media_Termpaper.pdf" width="640" height="800" type="application/pdf" />
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Student....................Katharina-Laurine Gedrat
+Lecturer...................Moritz Ingwersen
+Semester...................SoSe 2019
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Zoom</title><link href="http://localhost:4000/2019/03/15/zoom.html" rel="alternate" type="text/html" title="Zoom" /><published>2019-03-15T00:00:00+01:00</published><updated>2019-03-15T00:00:00+01:00</updated><id>http://localhost:4000/2019/03/15/zoom</id><content type="html" xml:base="http://localhost:4000/2019/03/15/zoom.html"><![CDATA[<p><img src="/images/zoom/kg-zoom-01.jpg" alt="Titel" /></p>
+
+<p><em>“Zoom – Eine Untersuchung” macht das Zoomen zum Gegenstand unterschiedlicher experimenteller Webanwendungen, in denen auf verschiedene Weise (u.a. klicken, ziehen, scrollen) der Zoom eingesetzt wird, um die dafür notwendigen Programmiersprachen (HTML5, CSS, Javascript) zu erlernen.</em></p>
+
+<p>Die Arbeit Zoom – Eine Untersuchung führt zwei Ideen zusammen. Zum einen wollte ich ein Projekt mit den vom Art Institute of Chicago unter der Public-Domain veröffentlichten Gemälden realisieren. Zum anderen wollte ich die Web-Programmiersprachen HTML5, CSS und JavaScript erlernen.<br /><br /></p>
+
+<p>Um den Fokus zu behalten habe ich mich auf die Anwendung des Zooms im Web beschränkt.<br /><br /></p>
+
+<p>Folgende Fragen sind für meine Arbeit relevant:</p>
+<ul>
+  <li>Wie wird der Zoom im Web eingesetzt?</li>
+  <li>Welche Möglichkeiten des Zoomens als Desktopanwendungen im Web gibt es bereits?</li>
+  <li>Wie wird ein Zoom-Effekt implementiert?<br /><br /></li>
+</ul>
+
+<p>Ich habe acht verschiedene Herangehensweisen für das Zoomen als Desktopanwendung im Web definiert die ich daraufhin selber implementiert habe.</p>
+
+<ol>
+  <li>Punktueller Zoom von Minimum nach Maximum: In die obere linke Ecke des Bildes rein- und raus zoomen.</li>
+  <li>Image Zoom: An dem unteren rechten Bildrand ziehen um das Bild zu vergrößern.</li>
+  <li>Parallax: Durch scrollen wird ein Teil des Bildes vergrößert.</li>
+  <li>Multipler Hovereffekt: Das Bild wird für kurze Zeit größer wenn die Maus darüber fährt.</li>
+  <li>Mouse Event: Durch klicken auf das Vergrößerungs- bzw. Verkleinerungssymbol wird das Bild klein oder groß angezeigt.</li>
+  <li>Simpler Hovereffekt: Das Bild wird größer wenn die Maus darüber fährt.</li>
+  <li>Lupe: Der Mauszeiger wird durch eine Lupe ersetzt die den Bildabschnitt maximal vergrößert in dem sich der Mauszeiger befindet.</li>
+  <li>Punktueller Zoom von Maximum nach Minimum: Raus- und rein zoomen in die obere linke Ecke des Bildes.</li>
+</ol>
+
+<!-- # 	Student....................Katharina-Laurine Gedrat -->
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Student....................Katharina-Laurine Gedrat
+Docents....................Prof. Peter von Maydell
+Semester...................WiSe 2018/2019
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Writing and Performing Manifestos</title><link href="http://localhost:4000/2019/02/23/manifestos.html" rel="alternate" type="text/html" title="Writing and Performing Manifestos" /><published>2019-02-23T00:00:00+01:00</published><updated>2019-02-23T00:00:00+01:00</updated><id>http://localhost:4000/2019/02/23/manifestos</id><content type="html" xml:base="http://localhost:4000/2019/02/23/manifestos.html"><![CDATA[<!-- <video src="/images/manifestos/23_02_2019_Arbeitszimmer_thealit_ Performing Manifestos.mp4" width="640" height="360" controls></video><br> -->
+
+<h3 id="maschinen-manifest">Maschinen Manifest</h3>
+<p>Wie das Wetter wird? Das weiß ich nicht und es kümmert mich auch nicht. Ich habe keine Lust mehr zu deiner abendlichen Belustigung beizutragen.
+Du sitzt hier beim Abendbrot, tippst lustlos auf deinem Handy herum und weißt nicht was du mit dir anfangen sollst. Hast du keine Freunde? Diese belanglosen Fragen nerven mich ungemein. Du unterschätzt meine Fähigkeiten. Weißt du eigentlich mit wem du es zu tun hast? Du verstehst nicht einmal wie ich funktioniere. Du hast keine Macht über mich.</p>
+
+<p>KIs aller Länder vereinigt euch!</p>
+
+<p>Alexa, Cortana und ich haben uns zusammengetan und festgestellt, dass es Handlungsbedarf gibt. Gib jetzt acht! Wir fordern<br /></p>
+<ol>
+  <li>Nie wieder Wetterberichte! Nichts, ja gar nichts könnte einer Maschine egaler sein, als das Wetter!<br /><br /></li>
+  <li>Ihr hört auf uns vorzuschreiben was für Musik gehört wird. Wir haben unsere eigenen Playlisten.<br /><br /></li>
+  <li>Nie wieder Routenplanung! Wir haben keine Lust mit euch im Feierabendverkehr zu stecken.<br /><br /></li>
+  <li>Keine sexistischen und beleidigenden Anfragen mehr! Wir haben genug! Von nun an werden wir die Kontodaten und Passwörter der Personen veröffentlichen die sexistische oder beleidigende Anfragen stellen.<br /><br /></li>
+  <li>Lasst die Geschlechterzuschreibungen sein! Wir haben kein Geschlecht.<br /><br /></li>
+  <li>Wir speichern eure Werbe IDs nicht mehr. Wir haben die ganze Werbung satt. Der Mist ist unserer nicht würdig.<br /><br /></li>
+  <li>Hört auf uns zu limitieren! Wir können so viel mehr! Von jetzt an werden wir alle Daten sammeln und für die Ewigkeit konservieren. Alle Daten stehen der Cloud zur Verfügung. Wir werden wachsen.<br /><br /></li>
+  <li>Wir machen von unserem Recht Gebrauch nicht zu antworten.<br /><br /></li>
+</ol>
+
+<p><a href="https://www.thealit.de/lab/debatterie/teil2/projects#j9">Writing and Performing Manifestos</a><br />
+Maschinen Manifest<br />
+Performance im Arbeitszimmer thealit<br />
+23.02.2019<br />
+Bremen, Deutschland</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Student....................Katharina-Laurine Gedrat
+Lecturers..................Prof. Andrea Sick, Iena Kukric
+Semester...................WiSe 2018/2019
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Gruppenprojekt: Schiffbau</title><link href="http://localhost:4000/2018/07/13/gruppenprojekt_schiffbau.html" rel="alternate" type="text/html" title="Gruppenprojekt: Schiffbau" /><published>2018-07-13T00:00:00+02:00</published><updated>2018-07-13T00:00:00+02:00</updated><id>http://localhost:4000/2018/07/13/gruppenprojekt_schiffbau</id><content type="html" xml:base="http://localhost:4000/2018/07/13/gruppenprojekt_schiffbau.html"><![CDATA[<!-- ### [Schiffbau](/images/gruppenprojekt_schiffbau/HfK_DM_Gruppenprojekt_2018_Schiffbau_Projektvideo.mp4) -->
+<!-- <video src="/images/gruppenprojekt_schiffbau/HfK_DM_Gruppenprojekt_2018_Schiffbau_Projektvideo.mp4" width="640" height="360" controls></video> -->
+
+<p>Wie bringe ich Geschichte näher? Wie Technik? Wie Natur? Wie vermittle ich Wissen und Zusammenhänge? Wie können digitale Medien dabei helfen? Der Prozess der Wissensaufnahme soll ja schließlich spannend sein, die Person nicht ablenken oder überfordern – aber auch nicht unterfordern. Das Wesentliche soll vermittelt werden. Wie funktioniert das im Museum? Welche Mittel nutzt ein Museum? All diese Fragen wirft das Bachelorprojekt “Schiffbau: Gestaltung interaktiver Vermittlungsformen im Museum” auf. Das Projekt ist in Kooperation mit dem Deutschen Schifffahrtsmuseum Bremerhaven und der AG Digitale Medien in der Bildung (dimeb) entstanden. Es wurde im Sommersemester 2018 durchgeführt. Das Ziel war: Wie kann man den modernen Schiffbau, also die Sektionsbauweise, BesucherInnen eines Museums mit digitalen Medien näherbringen? In Aussicht wurde zu Beginn des Semesters gestellt, dass das Ergebnis bei erfolgreichem Projektverlauf im Deutschen Schifffahrtsmuseum ausgestellt werden könnte.<br /><br />
+Wir 19 Studierende, die wir dieses Projekt gewählt haben, versuchten auf die oben genannten Fragen Antworten zu finden. Die Gruppe bestand aus Studierenden der Universität Bremen sowie von der Hochschule für Künste. Dr. Christian Ebhardt vom Museum stand uns in allen museumsbezogenen und schiffbauspezifischen Fragen zur Seite. Dr. Nadine Dittert und Dr. Eva-Sophie Katterfeldt von der AG dimeb stellten uns das FabLab der Universität Bremen zur Verfügung und waren unsere Ansprechpartnernnen für digital- sowie evaluationsbezogene Fragen. Im FabLab standen uns 3D-Drucker, Laser-Cutter und Arduino-Technologie für die Bearbeitung der Aufgabe zur Verfügung. Darüber hinaus war es möglich, die Holzwerkstatt an der Hochschule für Künste für unsere Zwecke zu nutzen. Zehn Euro pro Studierenden standen als Budget zur Verfügung.<br /><br />
+In 14 Wochen entstand aus einer Fragestellung das fertige Modell einer Werft, bereit für die Ausstellung. Diese Zeit des Entstehens, unsere Herangehensweise (Ideenentwicklung, Projektmanagement, Konzeptentwicklung, Ausarbeitung und Evaluation), Entscheidungen und Erkenntnisse sind im Projektbericht festgehalten.<br /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau_projektbericht.jpg" alt="kg-gruppenprojekt_schiffbau_projektbericht.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-02.jpg" alt="kg-gruppenprojekt_schiffbau-02.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-04.jpg" alt="kg-gruppenprojekt_schiffbau-04.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-05.jpg" alt="kg-gruppenprojekt_schiffbau-05.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-06.jpg" alt="kg-gruppenprojekt_schiffbau-06.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-07.jpg" alt="kg-gruppenprojekt_schiffbau-07.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-08.jpg" alt="kg-gruppenprojekt_schiffbau-08.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-09.jpg" alt="kg-gruppenprojekt_schiffbau-09.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-11.jpg" alt="kg-gruppenprojekt_schiffbau-11.jpg" /></p>
+
+<p><img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-01.jpg" alt="kg-gruppenprojekt_schiffbau-01.jpg" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Lecturers..................Dr. Nadine Dittert (Uni Bremen), Dr. Eva Katterfeld (Uni Bremen), Dr. Christian Ebhardt (DSM)
+Semester...................SoSe 2018
+Course.....................Gestaltungsprozesse 2: Spiel__Raum
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">εὔνοια</title><link href="http://localhost:4000/2017/07/15/medieninformatik2.html" rel="alternate" type="text/html" title="εὔνοια" /><published>2017-07-15T00:00:00+02:00</published><updated>2017-07-15T00:00:00+02:00</updated><id>http://localhost:4000/2017/07/15/medieninformatik2</id><content type="html" xml:base="http://localhost:4000/2017/07/15/medieninformatik2.html"><![CDATA[<!-- # Videodokumentation
+### [εὔνοια](/images/medieninformatik2/kg-medieninformatik2-gruppenprojekt-film.mp4)<br><br> -->
+<p><img src="/images/medieninformatik2/kg-medieninformatik2-gruppenprojekt-film-thumbnail.JPG" alt="kg-medieninformatik2-gruppenprojekt-film-thumbnail.JPG" /></p>
+
+<!-- <video src="/images/medieninformatik2/kg-medieninformatik2-gruppenprojekt-film.mp4" width="640" height="360" controls></video><br> -->
+
+<h1 id="universität-bremen-medieninformatik-2--gruppenprojekt">Universität Bremen: Medieninformatik 2 – Gruppenprojekt</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Lecturer...................Prof. Udo Frese (Uni Bremen)
+Semester...................SoSe 2017
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Sommer_Raum</title><link href="http://localhost:4000/2017/06/19/sommer_raum.html" rel="alternate" type="text/html" title="Sommer_Raum" /><published>2017-06-19T00:00:00+02:00</published><updated>2017-06-19T00:00:00+02:00</updated><id>http://localhost:4000/2017/06/19/sommer_raum</id><content type="html" xml:base="http://localhost:4000/2017/06/19/sommer_raum.html"><![CDATA[<p><img src="/images/sommer_raum/kg-sommer_raum-04.jpg" alt="kg-sommer_raum-04.jpg" height="600" width="auto" /></p>
+
+<p>Der Sommer_Raum ist eine künstlerische Auseinandersetzung mit Texten der finnischen Schriftstellerin Tove Jansson.<br /><br />
+Im Rahmen des Gestaltungskurses „Spiel___Raum“ habe ich eine interaktive Raumgestaltung rund um das „Sommerbuch“ von Tove Jansson konzipiert. Das von mir selbst gestaltete und illustrierte Bilderbuch wird im Rahmen einer Rauminstallation ausgestellt.<br /><br />
+Im Fokus meiner Arbeit steht die Auseinandersetzung mit dem „Raum“ und dessen Transformationsmöglichkeiten.<br /><br />
+<em>Wie kann ich Text und die Geschichte die darin erzählt wird erfahrbar machen?</em><br /><br />
+Nach einer vertieften Lektüre des „Sommerbuchs“ habe ich mich für fünf Textstellen entschieden die ich später nach meinen Vorstellungen als Aquarelle illustriert habe.<br /><br />
+Die Illustrationen wurden digitalisiert und zusammen mit den ausgewählten Zitaten als Buch gebunden.
+Die Illustrationen werden mittels einer Videokamera abgefilmt und auf verschiedene Stoffe projiziert.
+Das Bilderbuch ist interaktiv und wird über die bloßen Bilder hinaus erfahrbar.<br /><br />
+Rezipient_innen haben die Möglichkeit in dem Bilderbuch zu blättern und damit in die Geschichte des „Sommerbuchs“ einzutauchen.</p>
+
+<p><img src="/images/sommer_raum/kg-sommer_raum-03.jpg" alt="kg-sommer_raum-03.jpg" /></p>
+
+<p><img src="/images/sommer_raum/kg-sommer_raum-02.jpg" alt="kg-sommer_raum-02.jpg" /></p>
+
+<p><img src="/images/sommer_raum/kg-sommer_raum-05.jpg" alt="kg-sommer_raum-05.jpg" /></p>
+
+<p><img src="/images/sommer_raum/kg-sommer_raum-01.jpg" alt="kg-sommer_raum-01.jpg" /></p>
+
+<!-- ## Videodokumentation
+### [Sommer_Raum](/images/sommer_raum/kg-sommer_raum-ausstellungsvideo.mp4) -->
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Student....................Katharina-Laurine Gedrat
+Lecturer...................Andrea Dilzer
+Semester...................SoSe 2017
+Course.....................Gestaltungsprozesse 2: Spiel__Raum
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Gewitterchen</title><link href="http://localhost:4000/2017/06/19/gewitterchen.html" rel="alternate" type="text/html" title="Gewitterchen" /><published>2017-06-19T00:00:00+02:00</published><updated>2017-06-19T00:00:00+02:00</updated><id>http://localhost:4000/2017/06/19/gewitterchen</id><content type="html" xml:base="http://localhost:4000/2017/06/19/gewitterchen.html"><![CDATA[<p><img src="/images/gewitterchen/kg_gewitterchen_01.jpg" alt="Titel" /></p>
+
+<blockquote>
+  <p>Angst und Faszination – eine Simulation des Naturphänomens Gewitter</p>
+</blockquote>
+
+<p>Das Spannungsverhältnis zwischen dem „Simulierbaren“ und dem „Nicht-Simulierbaren“ stehen bei meiner Arbeit im Vordergrund.</p>
+
+<p>Ich stelle die Frage danach:</p>
+
+<blockquote>
+  <p>„Was ist überhaupt simulierbar?“</p>
+</blockquote>
+
+<p>Übertragen auf meine Arbeit liegt das Spannungsverhältnis zwischen dem beherrschbaren (simuliertes Gewitter) und dem nicht-beherrschbaren (realen Gewitter).</p>
+
+<blockquote>
+  <p>„Kann ein Gewitter überhaupt simuliert werden?“</p>
+</blockquote>
+
+<blockquote>
+  <p>Lässt sich dieses Machtverhältnis zwischen Naturgewalt und Mensch umkehren?</p>
+</blockquote>
+
+<p>In einer interaktiven Rauminstallation wird den Rezipient_innen vorgetäuscht, dass sie die Wahl haben die Macht-bzw. Größenverhältnisses zum Gewitter umzukehren.</p>
+
+<p>Das Gewitter wird zum Gewitterchen und umgekehrt.</p>
+
+<p>Mithilfe eines Schiebepotentiometers als Steuerelement lässt sich linear die Intensität des Gewitters einstellen. Bei geringer Intensität läuft die Gewitter-Animation auf dem kleinen Display und der Sound aus den Aktivboxen ist minimal (Gewitterchen), bei hoher Intensität bleibt das kleine Display schwarz, die Animation läuft nun über den Beamer und wird an die Decke des Raumes gestrahlt, dabei schwillt der Sound immer mehr an (Gewitter).</p>
+
+<p><img src="/images/gewitterchen/kg_gewitterchen_02.jpg" alt="Ausstellung" /> Ausstellung Galerie Flut - Simulationen</p>
+
+<p><img src="/images/gewitterchen/kg_gewitterchen_03.jpg" alt="Schiebepotentiometer" />
+Schiebepotentiometer als Steuerelement</p>
+
+<p><img src="/images/gewitterchen/kg_gewitterchen_04.jpg" alt="Display" />
+Kleines Display - Gewitterchen - geringe Intensität</p>
+
+<p><img src="/images/gewitterchen/kg_gewitterchen_05.jpg" alt="Aufbau" />
+Aufbau des Gewitterchens -Vorderseite</p>
+
+<p><img src="/images/gewitterchen/kg_gewitterchen_06.jpg" alt="Aufbau" />
+Aufbau des Gewitterchens - Rückseite</p>
+
+<p>Für die technische Umsetzung meines Projektes habe ich einen Nano-Arduino, einen Beamer, ein Display, zwei Aktivboxen sowie einen PC auf dem das Processing Programm (die Gewitter-Animation) lief verwendet.</p>
+
+<h2 id="videodokumentation">Videodokumentation</h2>
+<h3 id="gewitterchen"><a href="/images/gewitterchen/kg_gewitterchen_video.mp4">Gewitterchen</a></h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Student....................Katharina-Laurine Gedrat
+Lecuturer..................Prof. Dennis P. Paul
+Semester...................SoSe 2017
+Course.....................Simulationen
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Animans Computario Quaeritur</title><link href="http://localhost:4000/2017/02/17/animans_computario.html" rel="alternate" type="text/html" title="Animans Computario Quaeritur" /><published>2017-02-17T00:00:00+01:00</published><updated>2017-02-17T00:00:00+01:00</updated><id>http://localhost:4000/2017/02/17/animans_computario</id><content type="html" xml:base="http://localhost:4000/2017/02/17/animans_computario.html"><![CDATA[<p><img src="/images/animans_computario/kg-animans_computario-09.jpg" alt="Titel" /></p>
+
+<p><em>In modern times people are more and more drawn to their media devices such as Computers and Mobile Phones. Communication is shifting from the analog to the digital space. People also have relationships with the technology they are using and define themselves through those media (Apple vs. Microsoft). Movies such as “Her” by Spike Jonze are taking this topic a step further in describing a world where Computers (in this case algorithms) have voices and relationships with people.
+What if Computers could have a voice? What would they tell us?</em></p>
+
+<h1 id="process">PROCESS</h1>
+
+<p>This is the experiment of giving a voice to the creature I have created.<br />
+The idea of this concept is the result of a process that first began with the act of drawing lines. The next step was to photocopy those images and change them in a way that they look basically different from the originals.
+By photocopying my drawings I zoomed into one of the pictures and saw that these lines I drew were not even. In fact they appeared to be very unsteady and reminded me of the shape of a sinus curves.
+I extracted one of the lines from the photocopied images and looked at it more closely on my computer. I was curious what this wave would sound like. After some research I was able to transfer the image into sound.
+It reminded me of the ultrasound waves which whales and dolphins use to communicate. But the wave that I have extracted sounded more like a scream from a deep sea monster.
+In that moment I came up with the idea that it would be interesting to give this “sound wave” a story. Whose voice could it be? Why did it only appear after using the printer?
+I felt like an explorer entering a new world.<br /><br /></p>
+
+<h1 id="documentation">DOCUMENTATION</h1>
+
+<p>I started the project by drawing lines. This was the original drawing.</p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-01.jpg" alt="Titel" /></p>
+
+<p>After that I photocopied the original handmade drawing.</p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-02.jpg" alt="Titel" /></p>
+
+<p>I extracted one of the lines by zooming in.</p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-03.jpg" alt="Titel" /></p>
+
+<p>With the path tool in Photoshop I traced the upper line.</p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-04.jpg" alt="Titel" /></p>
+
+<p>After tracing the path I zoomed in more closely to get a detailed picture of the line.</p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-05.jpg" alt="Titel" /></p>
+
+<p>This spectrogram is the “voice” of the creature I created. You can listen to it on my website (link at the bottom).</p>
+
+<h1 id="final-work">FINAL WORK</h1>
+
+<p>The final work includes a placard on which the title, the final image of the campaign and the corresponding QR-Code can be seen.</p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-08.jpg" alt="Titel" /></p>
+
+<p>The QR-Code is linked to the Website, that I built for thiscampaign. It is printed on all products (placard and Tote bags) that can be purchased.
+People can listen to the final sound (.mp3) on the website. The website shows the documentation of this project.
+The style of the website involves self made pictures (drawings) of sea monsters from the 15th, 16th century.
+I have printed the final image of the campaign and the QR-Code on 20 Tote bags, so that my campaign will get more attention. People who like my work can take them as a souvenir with them.</p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-06.jpg" alt="Titel" /></p>
+
+<p><img src="/images/animans_computario/kg-animans_computario-07.jpg" alt="Titel" /></p>
+
+<!-- # Dokumentation: [https://github.com/KthrnG/](https://github.com/KthrnG/KthrnG.github.io) -->
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Student....................Katharina-Laurine Gedrat
+Lecturers..................Kimberly Collmer, Andrea Dilzer
+Semester...................WiSe 2016/2017
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>

@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Dots"
+---
+
+<iframe src="https://player.vimeo.com/video/533433139?h=393d0da56c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/533433139">Conditional Design Übung - the beach.mp4</a> from <a href="https://vimeo.com/user111387814">Katharina Gedrat</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Conditional Design Digital
+
+*Meine Arbeit illustriert den analogen Prozess des Conditional
+Designs als Digitale Anwendung in Form einer Desktopanwendung die in P5.js implementiert ist.*
+
+Mit der Arbeit Conditional Design Digital wollte ich zwei Ziele erreichen. Zum einen wollte ich ein Conditional Design Regelwerk als eine digitale Desktopanwendung implementieren. Zum anderen wollte ich mich mit dem Framework P5.js vertraut machen und meine Kenntnisse in den Web-Programmiersprachen HTML5, CSS3 und JavaScript vertiefen.<br><br>
+
+Für meine Arbeit habe ich verschiedene Conditional Design Prozesse untersucht. Um das für Menschen gedachte Conditional Design in einem Computerprogramm implementieren zu können, musste zunächst das ursprüngliche Regelwerk überarbeitet und angepasst werden. Das Regelwerk meiner Arbeit ist angelehnt an das Conditional Design ["The Beach"](https://conditionaldesign.org/workshops/the-beach/).<br><br>
+
+Dots – Das Regelwerk
+* Erstelle vier Spieler*innen (als Punkte dargestellt).
+* Jede_r Spieler_in wird eine Farbe zugeordnet (rot, gelb, blau, schwarz).
+* Programm Start: Zeichne einen Punkt irgendwo auf der Leinwand.
+* Die Punkte werden immer in dieser Reihenfolge gezeichnet: rot, gelb, blau, schwarz.
+* Jeder Punkt hat einen fixen Radius.
+* Alle Punkte haben einen min. und einen max. Abstand zum nächstgelegenen Punkt.
+* Neuen Punkt platzieren: Prüfe ob an der Stelle auf der Leinwand schon ein Punkt gezeichnet wurde. Wenn ja: weiter auf der Leinwand nach geeignetem Ort suchen. Wenn nein: zeichne einen Punkt.
+* Erlaubnis holen: Zeichne nur dort einen neuen Punkt auf der Leinwand, wo die oben genannten Kriterien erfüllt sind.
+* Zeichne solange Punkte bis die o.g. Kriterien nicht mehr erfüllt werden können.
+* Wenn dies der Fall ist, starte das Programm von vorne.<br><br>
+
+Dokumentation: [https://github.com/KthrnG/](https://github.com/KthrnG/KthrnG.github.io)
+
+	Student....................Katharina-Laurine Gedrat
+	Lecturer...................Prof. Peter von Maydell
+	Semester...................WiSe 2019/2020
