@@ -7,7 +7,6 @@ permalink: /imprint/
 <a href="mailto:moin@katharinagedrat.de">moin@katharinagedrat.de</a><br><br>
 
 #### Studio Address:
-Hochschule für Künste Bremen<br>
 Katharina-L. Gedrat<br>
 Atelier<br>
 Osterstraße 37/38<br>
