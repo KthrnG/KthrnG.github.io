@@ -16,6 +16,6 @@ Den Film sollten wir als Gruppe von Anfang planen und umsetzen. Die Umsetzung be
 
 ### Universität Bremen: Medieninformatik 2 – Gruppenprojekt
 
-Lecturer...................Prof. Udo Frese (Uni Bremen) <br>
-Semester...................SoSe 2017 <br>
-Course.....................Gruppenprojekt Digitale Medien BA
+Lecturer: Prof. Udo Frese (Uni Bremen) <br>
+Semester: SoSe 2017 <br>
+Course: Gruppenprojekt Digitale Medien BA

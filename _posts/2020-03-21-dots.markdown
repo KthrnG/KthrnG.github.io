@@ -28,7 +28,7 @@ Dots – Das Regelwerk
 
 Dokumentation: [https://github.com/KthrnG/](https://github.com/KthrnG/KthrnG.github.io)
 
-Student....................Katharina-Laurine Gedrat <br>
-Lecturer...................Prof. Peter von Maydell <br>
-Semester...................WiSe 2019/2020 <br>
-Course.....................Individualprojekt 2
+Student: Katharina-Laurine Gedrat <br>
+Lecturer: Prof. Peter von Maydell <br>
+Semester: WiSe 2019/2020 <br>
+Course: Individualprojekt 2

@@ -60,7 +60,7 @@ I have printed the final image of the campaign and the QR-Code on 20 Tote bags, 
 
 <br>
 
-Student....................Katharina-Laurine Gedrat <br>
-Lecturers..................Kimberly Collmer, Andrea Dilzer <br>
-Semester...................WiSe 2016/2017
+Student: Katharina-Laurine Gedrat <br>
+Lecturers: Kimberly Collmer, Andrea Dilzer <br>
+Semester: WiSe 2016/2017
 

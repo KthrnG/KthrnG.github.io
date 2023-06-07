@@ -28,7 +28,7 @@ Ich habe acht verschiedene Herangehensweisen für das Zoomen als Desktopanwendun
 8. Punktueller Zoom von Maximum nach Minimum: Raus- und rein zoomen in die obere linke Ecke des Bildes.
 
 
-Student....................Katharina-Laurine Gedrat <br>
-Lecturer...................Prof. Peter von Maydell <br>
-Semester...................WiSe 2018/2019 <br>
-Course.....................Individualprojekt 1
+Student: Katharina-Laurine Gedrat <br>
+Lecturer: Prof. Peter von Maydell <br>
+Semester: WiSe 2018/2019 <br>
+Course: Individualprojekt 1
