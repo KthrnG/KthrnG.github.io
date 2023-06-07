@@ -3,7 +3,8 @@ layout: post
 title:  "Writing and Performing Manifestos"
 ---
 
-<!-- <video src="/images/manifestos/23_02_2019_Arbeitszimmer_thealit_ Performing Manifestos.mp4" width="640" height="360" controls></video><br> -->
+<iframe src="https://player.vimeo.com/video/320449038?h=b68fb66be5" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/320449038">23.02.2019 @ Arbeitszimmer thealit: Performing Manifestos</a> from <a href="https://vimeo.com/user60326803">Digitale Medien KuD der HfK</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Maschinen Manifest
 Wie das Wetter wird? Das weiß ich nicht und es kümmert mich auch nicht. Ich habe keine Lust mehr zu deiner abendlichen Belustigung beizutragen.
