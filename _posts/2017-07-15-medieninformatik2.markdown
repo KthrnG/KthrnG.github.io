@@ -14,8 +14,8 @@ Das Thema des Filmes war vorgegeben und lautete: "Die Besucher"
 Den Film sollten wir als Gruppe von Anfang planen und umsetzen. Die Umsetzung beinhaltete das Anfertigen eines Storyboards, Drehbuch schreiben, selber schauspielern und die gesamte Postproduktion des Films. Zusätzlich war Vorgabe, dass der der Film eine in 3D animierte Szene beinhalten sollte.
 
 
-# Universität Bremen: Medieninformatik 2 – Gruppenprojekt
+### Universität Bremen: Medieninformatik 2 – Gruppenprojekt
 
-
-	Lecturer...................Prof. Udo Frese (Uni Bremen)
-	Semester...................SoSe 2017
+Lecturer...................Prof. Udo Frese (Uni Bremen) <br>
+Semester...................SoSe 2017 <br>
+Course.....................Gruppenprojekt Digitale Medien BA

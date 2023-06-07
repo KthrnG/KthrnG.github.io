@@ -31,6 +31,6 @@ In 14 Wochen entstand aus einer Fragestellung das fertige Modell einer Werft, be
 ![kg-gruppenprojekt_schiffbau-01.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-01.jpg)
 
 
-	Lecturers..................Dr. Nadine Dittert (Uni Bremen), Dr. Eva Katterfeld (Uni Bremen), Dr. Christian Ebhardt (DSM)
-	Semester...................SoSe 2018
-	Course.....................Gruppenprojekt Digitale Medien BA
+Lecturers..................Dr. Nadine Dittert (Uni Bremen), Dr. Eva Katterfeld (Uni Bremen), Dr. Christian Ebhardt (DSM) <br>
+Semester...................SoSe 2018 <br>
+Course.....................Gruppenprojekt Digitale Medien BA

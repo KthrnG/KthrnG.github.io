@@ -22,11 +22,8 @@ Rezipient_innen haben die Möglichkeit in dem Bilderbuch zu blättern und damit 
 
 ![kg-sommer_raum-01.jpg](/images/sommer_raum/kg-sommer_raum-01.jpg)
 
-<!-- ## Videodokumentation
-### [Sommer_Raum](/images/sommer_raum/kg-sommer_raum-ausstellungsvideo.mp4) -->
 
-
-	Student....................Katharina-Laurine Gedrat
-	Lecturer...................Andrea Dilzer
-	Semester...................SoSe 2017
-	Course.....................Gestaltungsprozesse 2: Spiel__Raum
+Student....................Katharina-Laurine Gedrat <br>
+Lecturer...................Andrea Dilzer <br>
+Semester...................SoSe 2017 <br>
+Course.....................Gestaltungsprozesse 2: Spiel__Raum

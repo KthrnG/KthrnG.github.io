@@ -27,7 +27,8 @@ Ich habe acht verschiedene Herangehensweisen für das Zoomen als Desktopanwendun
 7. Lupe: Der Mauszeiger wird durch eine Lupe ersetzt die den Bildabschnitt maximal vergrößert in dem sich der Mauszeiger befindet. 
 8. Punktueller Zoom von Maximum nach Minimum: Raus- und rein zoomen in die obere linke Ecke des Bildes.
 
-<!-- # 	Student....................Katharina-Laurine Gedrat -->
-	Student....................Katharina-Laurine Gedrat
-	Docents....................Prof. Peter von Maydell
-	Semester...................WiSe 2018/2019
+
+Student....................Katharina-Laurine Gedrat <br>
+Lecturer...................Prof. Peter von Maydell <br>
+Semester...................WiSe 2018/2019 <br>
+Course.....................Individualprojekt 1

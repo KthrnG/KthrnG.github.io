@@ -30,4 +30,5 @@ Alexa, Cortana und ich haben uns zusammengetan und festgestellt, dass es Handlun
 
 Student....................Katharina-Laurine Gedrat <br>
 Lecturers..................Prof. Andrea Sick, Iena Kukric<br>
-Semester...................WiSe 2018/2019
+Semester...................WiSe 2018/2019 <br>
+Course.....................Writing and Performing Manifestos

@@ -58,12 +58,9 @@ I have printed the final image of the campaign and the QR-Code on 20 Tote bags, 
 
 ![Titel](/images/animans_computario/kg-animans_computario-07.jpg)
 
+<br>
 
-<!-- # Dokumentation: [https://github.com/KthrnG/](https://github.com/KthrnG/KthrnG.github.io) -->
-
-
-
-	Student....................Katharina-Laurine Gedrat
-	Lecturers..................Kimberly Collmer, Andrea Dilzer
-	Semester...................WiSe 2016/2017
+Student....................Katharina-Laurine Gedrat <br>
+Lecturers..................Kimberly Collmer, Andrea Dilzer <br>
+Semester...................WiSe 2016/2017
 

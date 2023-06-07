@@ -9,6 +9,7 @@ title:  "Environmental Media"
 <embed src="/images/environmental_media/kg-Environmental_Media_Termpaper.pdf" width="640" height="800"
  type="application/pdf">
 
-	Student....................Katharina-Laurine Gedrat
-	Lecturer...................Moritz Ingwersen
-	Semester...................SoSe 2019
+Student....................Katharina-Laurine Gedrat <br>
+Lecturer...................Moritz Ingwersen <br>
+Semester...................SoSe 2019 <br>
+Course.....................Medienwissenschaft
