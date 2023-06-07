@@ -45,7 +45,7 @@ Für die technische Umsetzung meines Projektes habe ich einen Nano-Arduino, eine
 
 
 
-Student....................Katharina-Laurine Gedrat
-Lecuturer..................Prof. Dennis P. Paul
-Semester...................SoSe 2017
+Student....................Katharina-Laurine Gedrat <br>
+Lecuturer..................Prof. Dennis P. Paul <br>
+Semester...................SoSe 2017 <br>
 Course.....................Simulationen
