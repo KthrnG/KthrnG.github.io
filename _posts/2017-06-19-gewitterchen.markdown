@@ -27,21 +27,23 @@ Mithilfe eines Schiebepotentiometers als Steuerelement lässt sich linear die In
 
 ![Ausstellung](/images/gewitterchen/kg_gewitterchen_02.jpg) Ausstellung Galerie Flut - Simulationen
 
-![Schiebepotentiometer](/images/gewitterchen/kg_gewitterchen_03.jpg)
+<img src="/images/gewitterchen/kg_gewitterchen_03.jpg" alt="Schiebepotentiometer" height="600" width="auto"/>
 Schiebepotentiometer als Steuerelement
 
 ![Display](/images/gewitterchen/kg_gewitterchen_04.jpg)
 Kleines Display - Gewitterchen - geringe Intensität
 
 ![Aufbau](/images/gewitterchen/kg_gewitterchen_05.jpg)
-Aufbau des Gewitterchens -Vorderseite
+Aufbau des Gewitterchens - Vorderseite
 
-![Aufbau](/images/gewitterchen/kg_gewitterchen_06.jpg)
+<img src="/images/gewitterchen/kg_gewitterchen_06.jpg" alt="Aufbau Rückseite" height="600" width="auto"/>
 Aufbau des Gewitterchens - Rückseite
 
 Für die technische Umsetzung meines Projektes habe ich einen Nano-Arduino, einen Beamer, ein Display, zwei Aktivboxen sowie einen PC auf dem das Processing Programm (die Gewitter-Animation) lief verwendet.
 
 <div style="padding:55.21% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/833962307?title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+
+
 
 Student....................Katharina-Laurine Gedrat
 Lecuturer..................Prof. Dennis P. Paul
