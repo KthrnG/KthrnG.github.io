@@ -40,7 +40,7 @@ Vimeo: [Tschilp.mp4](https://vimeo.com/533428732)
 Displayed on Digital Media Bremen: [https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/](https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/)
 
 
-    Category...................Bachelor Thesis
-	Student....................Katharina-Laurine Gedrat
-	Lecturer...................Prof. Peter von Maydell, Prof. Ralf Baecker
-	Semester...................WiSe 2020/21
+    Category....................Bachelor Thesis
+	Student.....................Katharina-Laurine Gedrat
+	Lecturers...................Prof. Peter von Maydell, Prof. Ralf Baecker
+	Semester....................WiSe 2020/21
