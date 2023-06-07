@@ -36,7 +36,7 @@ Kleines Display - Gewitterchen - geringe Intensität
 ![Aufbau](/images/gewitterchen/kg_gewitterchen_05.jpg)
 Aufbau des Gewitterchens - Vorderseite
 
-<img src="/images/gewitterchen/kg_gewitterchen_06.jpg" alt="Aufbau Rückseite" height="600" width="auto" align="center"/>
+<img src="/images/gewitterchen/kg_gewitterchen_06.jpg" alt="Aufbau Rückseite" height="600" width="auto" align="center"/> 
 Aufbau des Gewitterchens - Rückseite
 
 Für die technische Umsetzung meines Projektes habe ich einen Nano-Arduino, einen Beamer, ein Display, zwei Aktivboxen sowie einen PC auf dem das Processing Programm (die Gewitter-Animation) lief verwendet.
