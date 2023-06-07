@@ -15,6 +15,7 @@ title:  "Environmental Media"
     </embed>
 </object>
 
+![Haekeln gegen das Korallensterben](/images/environmental_media/kg-Environmental_Media_Termpaper.pdf)
 
 Student: Katharina-Laurine Gedrat <br>
 Lecturer: Moritz Ingwersen <br>
