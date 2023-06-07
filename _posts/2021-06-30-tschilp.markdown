@@ -37,7 +37,7 @@ Projekt Website: [https://tschilp.net/](https://tschilp.net/)<br>
 GitHub Repository: [https://github.com/KthrnG/Tschilp](https://github.com/KthrnG/Tschilp)<br>
 Vimeo: [Tschilp.mp4](https://vimeo.com/533428732)
 
-Displayed on Digital Media Bremen: [https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/](https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/)
+Displayed on Digital Media Bremen Website: [https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/](https://digitalmedia-bremen.de/project/tschilp-ein-gerat-fur-die-akustische-langzeitbeobachtung-von-vogeln/)
 
 
     Category....................Bachelor Thesis
