@@ -6,6 +6,13 @@ title:  "εὔνοια"
 <br>
 ![kg-medieninformatik2-gruppenprojekt-film-thumbnail.JPG](/images/medieninformatik2/kg-medieninformatik2-gruppenprojekt-film-thumbnail.JPG)
 
+Die Aufgabe lautete:
+
+Einen Film mit maximal 4 Minuten länge zu drehen.
+Das Thema des Filmes war vorgegenen und lautete: "Die Besucher"
+Den Film sollten wir als Gruppe von Anfang planen und umsetzen. Die Umsetzung beinhaltete das Anfertigen eines Storyboards, Drehbuch schreiben, selber schauspielern und die gesamte Postproduktion des Films. Zusätzlich war Vorgabe, dass der der Film eine in 3D animierte Szene beinhalten sollte.
+
+
 # Universität Bremen: Medieninformatik 2 – Gruppenprojekt
 
 
