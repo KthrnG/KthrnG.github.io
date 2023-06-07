@@ -28,9 +28,7 @@ Mithilfe eines Schiebepotentiometers als Steuerelement lässt sich linear die In
 ![Ausstellung](/images/gewitterchen/kg_gewitterchen_02.jpg) Ausstellung Galerie Flut - Simulationen
 
 <img src="/images/gewitterchen/kg_gewitterchen_03.jpg" alt="Schiebepotentiometer" height="600" width="auto"/>
-
-<br>
-Schiebepotentiometer als Steuerelement
+<p>Schiebepotentiometer als Steuerelement</p>
 
 ![Display](/images/gewitterchen/kg_gewitterchen_04.jpg)
 Kleines Display - Gewitterchen - geringe Intensität
