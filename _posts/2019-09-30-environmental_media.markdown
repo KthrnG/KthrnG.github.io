@@ -2,11 +2,11 @@
 layout: post
 title:  "Environmental Media"
 ---
-<img src="/images/environmental_media/kg-Hyperbolic_orthogonal_dodecahedral_honeycomb.jpeg" alt="kg-Hyperbolic_orthogonal_dodecahedral_honeycomb.jpeg" width="500"/><br>
+<img src="/images/environmental_media/kg-Hyperbolic_orthogonal_dodecahedral_honeycomb.jpeg" alt="kg-Hyperbolic_orthogonal_dodecahedral_honeycomb.jpeg" width="400" height="auto"/><br>
 
 ### Häkeln gegen das Korallensterben – Ein Medium verbindet<br>
 
-<embed src="/images/environmental_media/kg-Environmental_Media_Termpaper.pdf" width="640" height="800"
+<embed src="/images/environmental_media/kg-Environmental_Media_Termpaper.pdf" width="640" height="auto"
  type="application/pdf">
 
 Student: Katharina-Laurine Gedrat <br>
