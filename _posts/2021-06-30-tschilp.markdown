@@ -29,7 +29,7 @@ Das Projekt um den Tschilp umfasst viele verschiedene Dimensionen. Es vereint te
 Der Tschilp ruft bei Menschen mit denen ich über das Projekt sprach großes Interesse hervor. Viele baten um ein eigenes Gerät.<br>
 Nach der ersten Testphase kann ich behaupten, dass sich der Tschilp hervorragend für den Außeneinsatz eignet. Er hat Herbststürmen und niedrigsten Temperaturen im Winter standgehalten. Wenn ich unterwegs bin und eine Nachricht von meinem Tschilp erhalte, halte ich kurz inne und bin gespannt welcher neue Vogel erkannt wurde.
 
-<iframe src="https://player.vimeo.com/video/533428732" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/533428732?h=300149d032" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Mehr Informationen zum Projekt unter:
 
