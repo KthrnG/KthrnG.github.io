@@ -10,7 +10,7 @@ Wir 19 Studierende, die wir dieses Projekt gewählt haben, versuchten auf die ob
 In 14 Wochen entstand aus einer Fragestellung das fertige Modell einer Werft, bereit für die Ausstellung. Diese Zeit des Entstehens, unsere Herangehensweise (Ideenentwicklung, Projektmanagement, Konzeptentwicklung, Ausarbeitung und Evaluation), Entscheidungen und Erkenntnisse sind im Projektbericht festgehalten.<br>
 
 
-<img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau_projektbericht.jpg" alt="kg-gruppenprojekt_schiffbau_projektbericht.jpg" height="500" width="auto"/> 
+<img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau_projektbericht.jpg" alt="kg-gruppenprojekt_schiffbau_projektbericht.jpg" height="600" width="auto"/> 
 
 ![kg-gruppenprojekt_schiffbau-02.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-02.jpg)
 
@@ -20,7 +20,7 @@ In 14 Wochen entstand aus einer Fragestellung das fertige Modell einer Werft, be
 
 ![kg-gruppenprojekt_schiffbau-06.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-06.jpg)
 
-![kg-gruppenprojekt_schiffbau-07.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-07.jpg)
+<img src="/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-07.jpg" alt="kg-gruppenprojekt_schiffbau-07.jpg" height="600" width="auto"/> 
 
 ![kg-gruppenprojekt_schiffbau-08.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-08.jpg)
 
