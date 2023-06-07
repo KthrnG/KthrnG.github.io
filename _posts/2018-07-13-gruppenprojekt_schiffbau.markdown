@@ -14,9 +14,9 @@ In 14 Wochen entstand aus einer Fragestellung das fertige Modell einer Werft, be
 
 ![kg-gruppenprojekt_schiffbau-02.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-02.jpg)
 
-![kg-gruppenprojekt_schiffbau-04.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-04.jpg)
+![kg-gruppenprojekt_schiffbau-04.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-04.JPG)
 
-![kg-gruppenprojekt_schiffbau-05.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-05.jpg)
+![kg-gruppenprojekt_schiffbau-05.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-05.JPG)
 
 ![kg-gruppenprojekt_schiffbau-06.jpg](/images/gruppenprojekt_schiffbau/kg-gruppenprojekt_schiffbau-06.jpg)
 
