@@ -8,7 +8,7 @@ permalink: /imprint/
 
 #### Studio Address:
 Katharina-L. Gedrat<br>
-Atelier<br>
+c/o Atelier<br>
 Osterstraße 37/38<br>
 28199 Bremen<br>
 Germany
