@@ -28,6 +28,7 @@ Mithilfe eines Schiebepotentiometers als Steuerelement lässt sich linear die In
 ![Ausstellung](/images/gewitterchen/kg_gewitterchen_02.jpg) Ausstellung Galerie Flut - Simulationen
 
 <img src="/images/gewitterchen/kg_gewitterchen_03.jpg" alt="Schiebepotentiometer" height="600" width="auto" align="center"/>
+<br>
 Schiebepotentiometer als Steuerelement
 
 ![Display](/images/gewitterchen/kg_gewitterchen_04.jpg)
@@ -37,6 +38,7 @@ Kleines Display - Gewitterchen - geringe Intensität
 Aufbau des Gewitterchens - Vorderseite
 
 <img src="/images/gewitterchen/kg_gewitterchen_06.jpg" alt="Aufbau Rückseite" height="600" width="auto" align="center"/> 
+<br>
 Aufbau des Gewitterchens - Rückseite
 
 Für die technische Umsetzung meines Projektes habe ich einen Nano-Arduino, einen Beamer, ein Display, zwei Aktivboxen sowie einen PC auf dem das Processing Programm (die Gewitter-Animation) lief verwendet. <br>
