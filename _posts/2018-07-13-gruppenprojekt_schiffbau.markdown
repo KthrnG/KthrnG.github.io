@@ -33,4 +33,4 @@ In 14 Wochen entstand aus einer Fragestellung das fertige Modell einer Werft, be
 
 	Lecturers..................Dr. Nadine Dittert (Uni Bremen), Dr. Eva Katterfeld (Uni Bremen), Dr. Christian Ebhardt (DSM)
 	Semester...................SoSe 2018
-	Course.....................Gestaltungsprozesse 2: Spiel__Raum
+	Course.....................Gruppenprojekt Digitale Medien BA
