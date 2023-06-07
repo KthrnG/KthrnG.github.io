@@ -6,7 +6,7 @@ title:  "Environmental Media"
 
 ### Häkeln gegen das Korallensterben – Ein Medium verbindet<br>
 
-<embed src="/images/environmental_media/kg-Environmental_Media_Termpaper.pdf" width="100%" height="800px"
+<embed src="/images/environmental_media/kg-Environmental_Media_Termpaper.pdf" width="100%" height="500px"
  type="application/pdf">
 
 Student: Katharina-Laurine Gedrat <br>
